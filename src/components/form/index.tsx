@@ -65,7 +65,7 @@ export default function Form() {
 
   return (
     <>
-      <form className="space-y-4" onSubmit={handleSubmit}>
+      <form className="space-y-4 text-center" onSubmit={handleSubmit}>
         <legend className="text-xl text-center font-semibold tracking-wide">
           Gerador de senhas
         </legend>
