@@ -72,7 +72,7 @@ export default function Form() {
         <InputCheckbox name="Números" value={numbers} setValue={setNumbers} />
         <InputCheckbox name="Letras" value={letters} setValue={setLetters} />
         <InputCheckbox
-          name="Caractéres especiais"
+          name="Caracteres especiais"
           value={specialCharacteres}
           setValue={setSpecialCharcteres}
         />
